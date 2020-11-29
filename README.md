@@ -2,4 +2,4 @@
 
 This is a POC Project to load data into a sql server using a ETL Tool - SSIS
 
-_To e update_
+_To be update_
