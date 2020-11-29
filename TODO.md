@@ -1,0 +1,12 @@
+- [ ] Create the SQL Server resource for demonstration
+- [ ] Create mock file containing data
+- [ ] Create the mapper file
+- [ ] Create the Staging tables
+- [ ] Create the SSIS Package
+    - [ ] Create the connection managers corresponds to Package
+    - [ ] Create the Data Flow task
+    - [ ] Enable Logging for Start and Post Execution of Package to a sql server table
+    - [ ] Enable Error Handling
+    - [ ] Enable logging of row count
+- [ ] Run the package using command line
+- [ ] Run the package using a scheduler
