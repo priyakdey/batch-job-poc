@@ -1,4 +1,4 @@
-- [ ] Create the SQL Server resource for demonstration
+- [X] Create the SQL Server resource for demonstration
 - [ ] Create mock file containing data
 - [ ] Create the mapper file
 - [ ] Create the Staging tables
